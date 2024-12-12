@@ -15,7 +15,7 @@ export default function MacbookScroll({ title, badge, src, showGradient = true }
               alt="Digital Campus Interface"
               className="w-full h-auto object-cover"
             />
-        </div>
+      </div>
 
     );
   }
